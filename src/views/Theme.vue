@@ -38,7 +38,8 @@ export default {
         'genshin':1,
         'zzz':3,
         'hk3':2,
-        'other':4
+        'tot':4,
+        'other':5
       },
       theme_info:[],
       noPost:false
