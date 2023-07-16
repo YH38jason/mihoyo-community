@@ -104,6 +104,12 @@ export default{
     ['给我二测资格','16+了，心理承受能力肯定上来了对吧']
   ],
   [
+    ['未定事件簿', 'Tears of Themis'],
+    require('@/assets/ico/tot.jpg'),
+    'tot',
+    ['你是?', '米哈游还有这游戏?']
+  ],
+  [
     ['杂谈','Other'],
     require('./assets/ico/myj.png'),
     'other',
