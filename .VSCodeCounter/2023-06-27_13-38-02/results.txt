@@ -1,0 +1,53 @@
+Date : 2023-06-27 13:38:02
+Directory : d:\vue\bbs\src
+Total : 19 files,  1719 codes, 24 comments, 104 blanks, all 1847 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| vue        |         13 |      1,628 |          7 |         94 |      1,729 |
+| JavaScript |          4 |         80 |         17 |          9 |        106 |
+| SCSS       |          1 |          6 |          0 |          0 |          6 |
+| JSON       |          1 |          5 |          0 |          1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------+------------+------------+------------+------------+------------+
+| path                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------+------------+------------+------------+------------+------------+
+| .                                        |         19 |      1,719 |         24 |        104 |      1,847 |
+| . (Files)                                |          4 |        393 |         20 |         17 |        430 |
+| assets                                   |          1 |          6 |          0 |          0 |          6 |
+| components                               |         10 |      1,045 |          0 |         68 |      1,113 |
+| components (Files)                       |          7 |        790 |          0 |         45 |        835 |
+| components\tags                          |          3 |        255 |          0 |         23 |        278 |
+| router                                   |          1 |         43 |          3 |          4 |         50 |
+| views                                    |          3 |        232 |          1 |         15 |        248 |
++------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                 | language   | code       | comment    | blank      | total      |
++------------------------------------------+------------+------------+------------+------------+------------+
+| d:\vue\bbs\src\App.vue                   | vue        |        356 |          6 |         12 |        374 |
+| d:\vue\bbs\src\assets\font.scss          | SCSS       |          6 |          0 |          0 |          6 |
+| d:\vue\bbs\src\components\dev.vue        | vue        |         59 |          0 |          6 |         65 |
+| d:\vue\bbs\src\components\error.vue      | vue        |         51 |          0 |          6 |         57 |
+| d:\vue\bbs\src\components\newpost.vue    | vue        |        224 |          0 |          9 |        233 |
+| d:\vue\bbs\src\components\package.json   | JSON       |          5 |          0 |          1 |          6 |
+| d:\vue\bbs\src\components\preview.vue    | vue        |        120 |          0 |          5 |        125 |
+| d:\vue\bbs\src\components\read.vue       | vue        |        317 |          0 |         12 |        329 |
+| d:\vue\bbs\src\components\spt.vue        | vue        |         14 |          0 |          6 |         20 |
+| d:\vue\bbs\src\components\tags\login.vue | vue        |        100 |          0 |          8 |        108 |
+| d:\vue\bbs\src\components\tags\me.vue    | vue        |         64 |          0 |          7 |         71 |
+| d:\vue\bbs\src\components\tags\reg.vue   | vue        |         91 |          0 |          8 |         99 |
+| d:\vue\bbs\src\global.js                 | JavaScript |         17 |          5 |          2 |         24 |
+| d:\vue\bbs\src\main.js                   | JavaScript |          8 |          8 |          2 |         18 |
+| d:\vue\bbs\src\router\index.js           | JavaScript |         43 |          3 |          4 |         50 |
+| d:\vue\bbs\src\views\Home.vue            | vue        |         43 |          1 |          4 |         48 |
+| d:\vue\bbs\src\views\Theme.vue           | vue        |        107 |          0 |          4 |        111 |
+| d:\vue\bbs\src\views\Themes.vue          | vue        |         82 |          0 |          7 |         89 |
+| d:\vue\bbs\src\vue.config.js             | JavaScript |         12 |          1 |          1 |         14 |
+| Total                                    |            |      1,719 |         24 |        104 |      1,847 |
++------------------------------------------+------------+------------+------------+------------+------------+

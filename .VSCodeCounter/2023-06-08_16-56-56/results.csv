@@ -1,0 +1,16 @@
+"filename", "language", "vue", "JavaScript", "JSON", "SCSS", "comment", "blank", "total"
+"d:\vue\bbs\src\App.vue", "vue", 294, 0, 0, 0, 5, 16, 315
+"d:\vue\bbs\src\assets\font.scss", "SCSS", 0, 0, 0, 6, 0, 0, 6
+"d:\vue\bbs\src\components\dev.vue", "vue", 50, 0, 0, 0, 0, 5, 55
+"d:\vue\bbs\src\components\login.vue", "vue", 94, 0, 0, 0, 0, 9, 103
+"d:\vue\bbs\src\components\me.vue", "vue", 47, 0, 0, 0, 0, 6, 53
+"d:\vue\bbs\src\components\package.json", "JSON", 0, 0, 5, 0, 0, 1, 6
+"d:\vue\bbs\src\components\preview.vue", "vue", 118, 0, 0, 0, 0, 5, 123
+"d:\vue\bbs\src\components\read.vue", "vue", 223, 0, 0, 0, 0, 10, 233
+"d:\vue\bbs\src\components\reg.vue", "vue", 85, 0, 0, 0, 0, 8, 93
+"d:\vue\bbs\src\components\top.vue", "vue", 32, 0, 0, 0, 0, 5, 37
+"d:\vue\bbs\src\global.js", "JavaScript", 0, 17, 0, 0, 2, 1, 20
+"d:\vue\bbs\src\main.js", "JavaScript", 0, 8, 0, 0, 4, 2, 14
+"d:\vue\bbs\src\router\index.js", "JavaScript", 0, 23, 0, 0, 3, 4, 30
+"d:\vue\bbs\src\views\Home.vue", "vue", 44, 0, 0, 0, 1, 4, 49
+"Total", "-", 987, 48, 5, 6, 15, 76, 1137

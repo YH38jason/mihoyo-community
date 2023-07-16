@@ -1,0 +1,51 @@
+Date : 2023-06-22 22:29:10
+Directory : d:\vue\bbs\src
+Total : 20 files,  467 codes, 6 comments, 24 blanks, all 497 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| vue        |         17 |        435 |          1 |         23 |        459 |
+| JavaScript |          3 |         32 |          5 |          1 |         38 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------+------------+------------+------------+------------+------------+
+| path                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------+------------+------------+------------+------------+------------+
+| .                                        |         20 |        467 |          6 |         24 |        497 |
+| . (Files)                                |          3 |         67 |          6 |         -2 |         71 |
+| components                               |         13 |        195 |          0 |         15 |        210 |
+| components (Files)                       |         10 |        -60 |          0 |         -8 |        -68 |
+| components\tags                          |          3 |        255 |          0 |         23 |        278 |
+| router                                   |          1 |         20 |          0 |          0 |         20 |
+| views                                    |          3 |        185 |          0 |         11 |        196 |
++------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                 | language   | code       | comment    | blank      | total      |
++------------------------------------------+------------+------------+------------+------------+------------+
+| d:\vue\bbs\src\App.vue                   | vue        |         55 |          1 |         -3 |         53 |
+| d:\vue\bbs\src\components\dev.vue        | vue        |          0 |          0 |          1 |          1 |
+| d:\vue\bbs\src\components\error.vue      | vue        |         51 |          0 |          6 |         57 |
+| d:\vue\bbs\src\components\login.vue      | vue        |        -94 |          0 |         -9 |       -103 |
+| d:\vue\bbs\src\components\me.vue         | vue        |        -47 |          0 |         -6 |        -53 |
+| d:\vue\bbs\src\components\newpost.vue    | vue        |        120 |          0 |          8 |        128 |
+| d:\vue\bbs\src\components\preview.vue    | vue        |         -5 |          0 |          0 |         -5 |
+| d:\vue\bbs\src\components\read.vue       | vue        |         18 |          0 |         -1 |         17 |
+| d:\vue\bbs\src\components\reg.vue        | vue        |        -85 |          0 |         -8 |        -93 |
+| d:\vue\bbs\src\components\spt.vue        | vue        |         14 |          0 |          6 |         20 |
+| d:\vue\bbs\src\components\tags\login.vue | vue        |        100 |          0 |          8 |        108 |
+| d:\vue\bbs\src\components\tags\me.vue    | vue        |         64 |          0 |          7 |         71 |
+| d:\vue\bbs\src\components\tags\reg.vue   | vue        |         91 |          0 |          8 |         99 |
+| d:\vue\bbs\src\components\top.vue        | vue        |        -32 |          0 |         -5 |        -37 |
+| d:\vue\bbs\src\main.js                   | JavaScript |          0 |          4 |          0 |          4 |
+| d:\vue\bbs\src\router\index.js           | JavaScript |         20 |          0 |          0 |         20 |
+| d:\vue\bbs\src\views\Home.vue            | vue        |         -1 |          0 |          0 |         -1 |
+| d:\vue\bbs\src\views\Theme.vue           | vue        |        104 |          0 |          4 |        108 |
+| d:\vue\bbs\src\views\Themes.vue          | vue        |         82 |          0 |          7 |         89 |
+| d:\vue\bbs\src\vue.config.js             | JavaScript |         12 |          1 |          1 |         14 |
+| Total                                    |            |        467 |          6 |         24 |        497 |
++------------------------------------------+------------+------------+------------+------------+------------+
