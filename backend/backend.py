@@ -355,7 +355,7 @@ def like(id):
         sql = 'update users set mic = mic + 1 where id=%s'
         cur.execute(sql,(poster,))
         con.commit()
-    except pymysql.err.IntegrityError as e:
+    except pymysql.err.IntegrityError:
         status = 1
         con.rollback()
     finally:

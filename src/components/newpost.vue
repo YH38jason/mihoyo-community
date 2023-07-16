@@ -16,6 +16,8 @@
       <label for="hk3">崩坏3</label>
       <input type="radio" v-model="picked" value="zzz" id="zzz">
       <label for="zzz">绝区零</label>
+      <input type="radio" v-model="picked" value="tot" id="other" checked="true">
+      <label for="other">未定事件簿</label>
       <input type="radio" v-model="picked" value="other" id="other" checked="true">
       <label for="other">其他</label>
     </div>
@@ -219,7 +221,7 @@ export default {
 .radios{
   margin: 15px;margin-left: 30px;
   border: 1px solid #ccc;border-radius: 3px;
-  margin-right: 40%;padding: 5px;
+  margin-right: 33%;padding: 5px;
 }
 .radios input{
   cursor: pointer;
