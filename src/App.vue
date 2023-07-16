@@ -97,8 +97,12 @@ export default{
     'May all the beauty be blessed.',
     'This is the last lesson.']
   ],
-  
-  
+  [
+    ['绝区零','Zenless Zone Zero'],
+    require('./assets/ico/zzz.jpg'),
+    'zzz',
+    ['给我二测资格','16+了，心理承受能力肯定上来了对吧']
+  ],
   [
     ['杂谈','Other'],
     require('./assets/ico/myj.png'),
