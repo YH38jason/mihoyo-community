@@ -1,4 +1,28 @@
 <template>
+
+
+<!--            
+                                                                                                                         |___/ 
+              _   _    _          __     __                                
+             (_) | |  | |         \ \   / /                                
+  _ __ ___    _  | |__| |   ___    \ \_/ /    ___                          
+ | '_ ` _ \  | | |  __  |  / _ \    \   /    / _ \                         
+ | | | | | | | | | |  | | | (_) |    | |    | (_) |                        
+ |_| |_| |_| |_| |_|  |_|  \___/     |_|     \___/                         
+                                                                           
+                                                                           
+   _____                                                   _   _           
+  / ____|                                                 (_) | |          
+ | |        ___    _ __ ___    _ __ ___    _   _   _ __    _  | |_   _   _ 
+ | |       / _ \  | '_ ` _ \  | '_ ` _ \  | | | | | '_ \  | | | __| | | | |
+ | |____  | (_) | | | | | | | | | | | | | | |_| | | | | | | | | |_  | |_| |
+  \_____|  \___/  |_| |_| |_| |_| |_| |_|  \__,_| |_| |_| |_|  \__|  \__, |
+                                                                      __/ |
+                                                                     |___/ 
+                                                                                                                         
+-->
+
+
 <div style="z-index: 9999;" v-if="!serverError">
   <div class="navbar" id="nav" v-if="!serverError">
     <nav>
@@ -9,7 +33,7 @@
       <div id="pages">
         <!--主页-->
         <router-link title="米の游戏" to="/themes">米游</router-link> 
-        <router-link title='原神：星穹六号' to="/live/genshin">直播</router-link>       
+        <!-- <router-link title='原神：星穹六号' to="/live/genshin">直播</router-link>        -->
         <router-link title="给钱！" to="/support">赞助</router-link>
         <a title="米哈游官网，mihoyo吧拒绝评分" href="http://www.mihoyo.com" target="_blank">MIHOYO.COM</a>
         <!-- <router-link title="王の宝库" to="/user" v-if="key">{{ user }}</router-link> -->

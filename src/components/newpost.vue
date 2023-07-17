@@ -16,7 +16,7 @@
       <label for="hk3">崩坏3</label>
       <input type="radio" v-model="picked" value="zzz" id="zzz">
       <label for="zzz">绝区零</label>
-      <input type="radio" v-model="picked" value="tot" id="other" checked="true">
+      <input type="radio" v-model="picked" value="tot" id="other" >
       <label for="other">未定事件簿</label>
       <input type="radio" v-model="picked" value="other" id="other" checked="true">
       <label for="other">其他</label>
